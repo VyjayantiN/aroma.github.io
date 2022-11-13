@@ -1,0 +1,203 @@
+.navbar{
+    padding: 0;
+    margin:0;
+   
+}
+.nav-link{
+    font-size: 1rem;
+    color: white;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.navbar-brand:hover{
+    font-size: 1.8rem;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.mainpage{
+    padding:0;
+    margin:0;
+    background-color: black;
+}
+.homeimage{
+    margin:0;
+    padding:0;
+    max-width: 100%;
+}
+.mainpara{
+    font-size: 1.4rem;
+    padding-left: 2rem;
+}
+.mainpage{
+    background-color: #3bacb6;
+
+}
+
+.title{
+    background-color: #3bacb6;
+
+}
+.vase{
+    width:80%;
+    padding:10 0 5 0;
+}
+.gift{
+    width:80%;
+    padding:5 0 5 0;
+}
+.wedding{
+    width:80%;
+    padding:0 0 5 0;
+}
+.memories{
+    font-family: 'Montserrat-black';
+    font-size: 3.2rem;
+    line-height: 1.5;
+}
+.fea-subheads{
+    padding-top: 2rem;
+}
+.apos{
+    font-size: 3.5rem;
+    font-weight:bold;
+}
+.btn1{
+    margin-left:10px;
+    margin-right: 10px;
+}
+.btn1:hover{
+background-color: #187498;
+color: white;
+}
+.custom{
+    padding: 0px;
+    margin: 0;
+    
+}
+.daughter{
+    width:60%;
+}
+.btn2:hover{
+    margin-left:10px;
+    margin-right: 10px;
+    color: #187498;
+    background-color: white;
+}
+.btn2{
+background-color: #187498;
+color: white;
+}
+.newspapers{
+    width:75%;
+}
+.container-fluid{
+    padding:3% 15%;
+}
+.nav-item{
+    font-size: 1.4rem;
+}
+.titletext{
+padding-left :15%;
+padding-right :15%;
+}
+.fea-cont{
+    background:#e8f9fd;
+    font-family: 'Roboto', sans-serif;
+}
+.fea-heading{
+    font-family: cursive;
+    color: #187498;
+}
+.test{
+    background-color:#3bacb6;
+    margin: 0;
+    padding: 0;
+}
+.testrow{
+    padding: 0;
+    margin: 0;
+}
+.testhead{
+    font-family: 'Montserrat-black';
+    font-size: 2.2rem;
+    line-height: 1.5;
+}
+.testcol{
+   
+    background-color: #e8f9fd;
+   padding: 10px;
+   border-right: 10px;
+   border-style: groove;
+}
+.testrow2{
+  
+    margin-right: 2px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+   
+}
+
+.pricerow{
+    margin:0px;
+    padding: 0px;
+    border-color: black;
+    
+}
+.pricing-subheads{
+    color: #187498;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.pr-button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pricing-heading{
+    font-family: cursive;
+    color: #187498;
+}
+.downcol{
+    background-color: aqua;
+}
+.mainpara{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.footer{
+    background-color: cornflowerblue;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
